@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Odediran Philip Oluseyi- [Github](https://github.com/akin125) 
-Temitayo Omolayo - [Github]()
+Ajadi Marvellous Oladayo- [Github](https://github.com/Optimustprime) 
   
  
 ## License
