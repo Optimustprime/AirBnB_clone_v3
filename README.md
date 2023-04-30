@@ -154,9 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Ajadi Marvellous Oladayo - [Github](https://github.com/Optimustprime) 
-Second part of Airbnb: Joann Vuong
+Odediran Philip Oluseyi- [Github](https://github.com/akin125) 
+Temitayo Omolayo - [Github]()
+  
+ 
 ## License
 Public Domain. No copy write protection. 
-
-# ok
