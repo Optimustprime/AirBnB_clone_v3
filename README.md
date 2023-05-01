@@ -178,10 +178,10 @@ No known bugs at this time.
 
 ## Authors
 
-Merit Dike - [Github](https://github.com/Meritdike)
-Nneka Ossai - [Github](https://github.com/Cherish13)
+Ajadi Marvellous Oladayo - [Github](https://github.com/Optimustprime)
 
-Second part of Airbnb: Joann Vuong
+
+
 
 ## License
 
